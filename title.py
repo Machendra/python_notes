@@ -5,3 +5,5 @@ print (given_str.center(cols))
 print (given_str.ljust(cols))
 print (given_str.rjust(cols))
 
+
+print (given_str.center(cols))
